@@ -2,7 +2,7 @@ import user from '../assets/user.json';
 import { Profile } from './Profile/Profile';
 import css from './App.module.css'
 
-console.log(user);
+
 export const App = () => {
   return (
     <div>

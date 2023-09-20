@@ -1,0 +1,23 @@
+.transactionHistory {
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  border-collapse: collapse;
+  box-shadow: 5px -7px 10px 8px rgba(0, 0, 0, 0.1);
+}
+.thed {
+  background-color: lightcyan;
+  font-size: 18px;
+}
+
+.head {
+  padding: 10px;
+}
+.columns {
+  text-align: center;
+  text-transform: capitalize;
+  padding: 10px;
+}
+.rows:nth-child(odd) {
+  background-color: bisque;
+}
